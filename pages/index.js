@@ -18,9 +18,13 @@ export default function Home() {
 
         <p className={styles.description}>
           <Image src="/kue.png" alt="Kue Hari Guru" width={500} height={500} />
+          <Image src="/ramean.jpeg" alt="Kenangan RPL 1 2016-2019" width={500} height={500} />
         </p>
-
+        
         <h1 className={styles.title}>Spesial Untuk Bu Yuli 🌻</h1>
+        <h1 className={styles.title}>
+          <a href="javascript:void(0)">#Abdul #Fahri #Rafly #Dan Kawan Kawan RPL 🙆‍♂️ 🙆‍♀️</a>
+        </h1>
       </main>
 
       <footer className={styles.footer}>
